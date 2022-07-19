@@ -7,10 +7,11 @@
 
 Сборка для Linux
 
-mkdir build && cd build
-cmake -DCMAKE_BUILD_TYPE=Release  ..
+1)mkdir build && cd build
+
+2)cmake -DCMAKE_BUILD_TYPE=Release  ..
 
 
 
-cmake --build .
+3)cmake --build .
 
