@@ -1,0 +1,194 @@
+Start testing: Jun 30 23:25 MSK
+----------------------------------------------------------
+1/5 Testing: negative_test
+1/5 Test: negative_test
+Command: "/home/ilya/Programming/16Sprint/SpreadSheet/runtime/utfcpp-prefix/src/utfcpp-build/tests/negative" "/home/ilya/Programming/16Sprint/SpreadSheet/runtime/thirdparty/utfcpp/tests/test_data/utf8_invalid.txt"
+Directory: /home/ilya/Programming/16Sprint/SpreadSheet/runtime/utfcpp-prefix/src/utfcpp-build/tests
+"negative_test" start time: Jun 30 23:25 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"negative_test" end time: Jun 30 23:25 MSK
+"negative_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/5 Testing: cpp11_test
+2/5 Test: cpp11_test
+Command: "/home/ilya/Programming/16Sprint/SpreadSheet/runtime/utfcpp-prefix/src/utfcpp-build/tests/cpp11"
+Directory: /home/ilya/Programming/16Sprint/SpreadSheet/runtime/utfcpp-prefix/src/utfcpp-build/tests
+"cpp11_test" start time: Jun 30 23:25 MSK
+Output:
+----------------------------------------------------------
+[==========] Running 9 tests from 1 test cases.
+[----------] 9 tests from CPP11APITests
+[ RUN      ] CPP11APITests.test_append
+[       OK ] CPP11APITests.test_append
+[ RUN      ] CPP11APITests.test_utf16to8
+[       OK ] CPP11APITests.test_utf16to8
+[ RUN      ] CPP11APITests.test_utf8to16
+[       OK ] CPP11APITests.test_utf8to16
+[ RUN      ] CPP11APITests.test_utf32to8
+[       OK ] CPP11APITests.test_utf32to8
+[ RUN      ] CPP11APITests.test_utf8to32
+[       OK ] CPP11APITests.test_utf8to32
+[ RUN      ] CPP11APITests.test_find_invalid
+[       OK ] CPP11APITests.test_find_invalid
+[ RUN      ] CPP11APITests.test_is_valid
+[       OK ] CPP11APITests.test_is_valid
+[ RUN      ] CPP11APITests.test_replace_invalid
+[       OK ] CPP11APITests.test_replace_invalid
+[ RUN      ] CPP11APITests.test_starts_with_bom
+[       OK ] CPP11APITests.test_starts_with_bom
+[----------] 9 tests from CPP11APITests
+[==========] 9 tests from 1 test cases ran.
+[  PASSED  ] 9 tests.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"cpp11_test" end time: Jun 30 23:25 MSK
+"cpp11_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/5 Testing: cpp17_test
+3/5 Test: cpp17_test
+Command: "/home/ilya/Programming/16Sprint/SpreadSheet/runtime/utfcpp-prefix/src/utfcpp-build/tests/cpp17"
+Directory: /home/ilya/Programming/16Sprint/SpreadSheet/runtime/utfcpp-prefix/src/utfcpp-build/tests
+"cpp17_test" start time: Jun 30 23:25 MSK
+Output:
+----------------------------------------------------------
+[==========] Running 8 tests from 1 test cases.
+[----------] 8 tests from CPP17APITests
+[ RUN      ] CPP17APITests.test_utf16to8
+[       OK ] CPP17APITests.test_utf16to8
+[ RUN      ] CPP17APITests.test_utf8to16
+[       OK ] CPP17APITests.test_utf8to16
+[ RUN      ] CPP17APITests.test_utf32to8
+[       OK ] CPP17APITests.test_utf32to8
+[ RUN      ] CPP17APITests.test_utf8to32
+[       OK ] CPP17APITests.test_utf8to32
+[ RUN      ] CPP17APITests.test_find_invalid
+[       OK ] CPP17APITests.test_find_invalid
+[ RUN      ] CPP17APITests.test_is_valid
+[       OK ] CPP17APITests.test_is_valid
+[ RUN      ] CPP17APITests.test_replace_invalid
+[       OK ] CPP17APITests.test_replace_invalid
+[ RUN      ] CPP17APITests.test_starts_with_bom
+[       OK ] CPP17APITests.test_starts_with_bom
+[----------] 8 tests from CPP17APITests
+[==========] 8 tests from 1 test cases ran.
+[  PASSED  ] 8 tests.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"cpp17_test" end time: Jun 30 23:25 MSK
+"cpp17_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/5 Testing: api_test
+4/5 Test: api_test
+Command: "/home/ilya/Programming/16Sprint/SpreadSheet/runtime/utfcpp-prefix/src/utfcpp-build/tests/apitests"
+Directory: /home/ilya/Programming/16Sprint/SpreadSheet/runtime/utfcpp-prefix/src/utfcpp-build/tests
+"api_test" start time: Jun 30 23:25 MSK
+Output:
+----------------------------------------------------------
+[==========] Running 15 tests from 3 test cases.
+[----------] 11 tests from UnCheckedAPITests
+[ RUN      ] UnCheckedAPITests.test_append
+[       OK ] UnCheckedAPITests.test_append
+[ RUN      ] UnCheckedAPITests.test_next
+[       OK ] UnCheckedAPITests.test_next
+[ RUN      ] UnCheckedAPITests.test_peek_next
+[       OK ] UnCheckedAPITests.test_peek_next
+[ RUN      ] UnCheckedAPITests.test_prior
+[       OK ] UnCheckedAPITests.test_prior
+[ RUN      ] UnCheckedAPITests.test_advance
+[       OK ] UnCheckedAPITests.test_advance
+[ RUN      ] UnCheckedAPITests.test_distance
+[       OK ] UnCheckedAPITests.test_distance
+[ RUN      ] UnCheckedAPITests.test_utf32to8
+[       OK ] UnCheckedAPITests.test_utf32to8
+[ RUN      ] UnCheckedAPITests.test_utf8to32
+[       OK ] UnCheckedAPITests.test_utf8to32
+[ RUN      ] UnCheckedAPITests.test_utf16to8
+[       OK ] UnCheckedAPITests.test_utf16to8
+[ RUN      ] UnCheckedAPITests.test_utf8to16
+[       OK ] UnCheckedAPITests.test_utf8to16
+[ RUN      ] UnCheckedAPITests.test_replace_invalid
+[       OK ] UnCheckedAPITests.test_replace_invalid
+[----------] 11 tests from UnCheckedAPITests
+[----------] 2 tests from CheckedIteratrTests
+[ RUN      ] CheckedIteratrTests.test_increment
+[       OK ] CheckedIteratrTests.test_increment
+[ RUN      ] CheckedIteratrTests.test_decrement
+[       OK ] CheckedIteratrTests.test_decrement
+[----------] 2 tests from CheckedIteratrTests
+[----------] 2 tests from UnCheckedIteratrTests
+[ RUN      ] UnCheckedIteratrTests.test_increment
+[       OK ] UnCheckedIteratrTests.test_increment
+[ RUN      ] UnCheckedIteratrTests.test_decrement
+[       OK ] UnCheckedIteratrTests.test_decrement
+[----------] 2 tests from UnCheckedIteratrTests
+[==========] 15 tests from 3 test cases ran.
+[  PASSED  ] 15 tests.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"api_test" end time: Jun 30 23:25 MSK
+"api_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/5 Testing: noexceptions_test
+5/5 Test: noexceptions_test
+Command: "/home/ilya/Programming/16Sprint/SpreadSheet/runtime/utfcpp-prefix/src/utfcpp-build/tests/noexceptionstests"
+Directory: /home/ilya/Programming/16Sprint/SpreadSheet/runtime/utfcpp-prefix/src/utfcpp-build/tests
+"noexceptions_test" start time: Jun 30 23:25 MSK
+Output:
+----------------------------------------------------------
+[==========] Running 13 tests from 2 test cases.
+[----------] 11 tests from UnCheckedAPITests
+[ RUN      ] UnCheckedAPITests.test_append
+[       OK ] UnCheckedAPITests.test_append
+[ RUN      ] UnCheckedAPITests.test_next
+[       OK ] UnCheckedAPITests.test_next
+[ RUN      ] UnCheckedAPITests.test_peek_next
+[       OK ] UnCheckedAPITests.test_peek_next
+[ RUN      ] UnCheckedAPITests.test_prior
+[       OK ] UnCheckedAPITests.test_prior
+[ RUN      ] UnCheckedAPITests.test_advance
+[       OK ] UnCheckedAPITests.test_advance
+[ RUN      ] UnCheckedAPITests.test_distance
+[       OK ] UnCheckedAPITests.test_distance
+[ RUN      ] UnCheckedAPITests.test_utf32to8
+[       OK ] UnCheckedAPITests.test_utf32to8
+[ RUN      ] UnCheckedAPITests.test_utf8to32
+[       OK ] UnCheckedAPITests.test_utf8to32
+[ RUN      ] UnCheckedAPITests.test_utf16to8
+[       OK ] UnCheckedAPITests.test_utf16to8
+[ RUN      ] UnCheckedAPITests.test_utf8to16
+[       OK ] UnCheckedAPITests.test_utf8to16
+[ RUN      ] UnCheckedAPITests.test_replace_invalid
+[       OK ] UnCheckedAPITests.test_replace_invalid
+[----------] 11 tests from UnCheckedAPITests
+[----------] 2 tests from UnCheckedIteratrTests
+[ RUN      ] UnCheckedIteratrTests.test_increment
+[       OK ] UnCheckedIteratrTests.test_increment
+[ RUN      ] UnCheckedIteratrTests.test_decrement
+[       OK ] UnCheckedIteratrTests.test_decrement
+[----------] 2 tests from UnCheckedIteratrTests
+[==========] 13 tests from 2 test cases ran.
+[  PASSED  ] 13 tests.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"noexceptions_test" end time: Jun 30 23:25 MSK
+"noexceptions_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 30 23:25 MSK

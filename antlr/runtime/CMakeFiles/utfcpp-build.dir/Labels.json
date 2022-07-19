@@ -1,0 +1,34 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/ilya/Programming/16Sprint/Superfinal/antlr/runtime/CMakeFiles/utfcpp-build"
+		},
+		{
+			"file" : "/home/ilya/Programming/16Sprint/Superfinal/antlr/runtime/CMakeFiles/utfcpp-build.rule"
+		},
+		{
+			"file" : "/home/ilya/Programming/16Sprint/Superfinal/antlr/runtime/utfcpp-prefix/src/utfcpp-stamp/utfcpp-build.rule"
+		},
+		{
+			"file" : "/home/ilya/Programming/16Sprint/Superfinal/antlr/runtime/utfcpp-prefix/src/utfcpp-stamp/utfcpp-configure.rule"
+		},
+		{
+			"file" : "/home/ilya/Programming/16Sprint/Superfinal/antlr/runtime/utfcpp-prefix/src/utfcpp-stamp/utfcpp-patch.rule"
+		},
+		{
+			"file" : "/home/ilya/Programming/16Sprint/Superfinal/antlr/runtime/utfcpp-prefix/src/utfcpp-stamp/utfcpp-download.rule"
+		},
+		{
+			"file" : "/home/ilya/Programming/16Sprint/Superfinal/antlr/runtime/utfcpp-prefix/src/utfcpp-stamp/utfcpp-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"utfcpp"
+		],
+		"name" : "utfcpp-build"
+	}
+}

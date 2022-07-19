@@ -1,0 +1,7 @@
+/home/ilya/Programming/16Sprint/SpreadSheet/runtime/thirdparty/utfcpp/install/include/utf8cpp/utf8.h
+/home/ilya/Programming/16Sprint/SpreadSheet/runtime/thirdparty/utfcpp/install/include/utf8cpp/utf8/checked.h
+/home/ilya/Programming/16Sprint/SpreadSheet/runtime/thirdparty/utfcpp/install/include/utf8cpp/utf8/core.h
+/home/ilya/Programming/16Sprint/SpreadSheet/runtime/thirdparty/utfcpp/install/include/utf8cpp/utf8/cpp11.h
+/home/ilya/Programming/16Sprint/SpreadSheet/runtime/thirdparty/utfcpp/install/include/utf8cpp/utf8/cpp17.h
+/home/ilya/Programming/16Sprint/SpreadSheet/runtime/thirdparty/utfcpp/install/include/utf8cpp/utf8/unchecked.h
+/home/ilya/Programming/16Sprint/SpreadSheet/runtime/thirdparty/utfcpp/install/lib/cmake/utf8cpp/utf8cppConfig.cmake

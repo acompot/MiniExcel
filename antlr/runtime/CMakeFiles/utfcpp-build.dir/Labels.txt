@@ -1,0 +1,10 @@
+# Target labels
+ utfcpp
+# Source files and their labels
+/home/ilya/Programming/16Sprint/Superfinal/antlr/runtime/CMakeFiles/utfcpp-build
+/home/ilya/Programming/16Sprint/Superfinal/antlr/runtime/CMakeFiles/utfcpp-build.rule
+/home/ilya/Programming/16Sprint/Superfinal/antlr/runtime/utfcpp-prefix/src/utfcpp-stamp/utfcpp-build.rule
+/home/ilya/Programming/16Sprint/Superfinal/antlr/runtime/utfcpp-prefix/src/utfcpp-stamp/utfcpp-configure.rule
+/home/ilya/Programming/16Sprint/Superfinal/antlr/runtime/utfcpp-prefix/src/utfcpp-stamp/utfcpp-patch.rule
+/home/ilya/Programming/16Sprint/Superfinal/antlr/runtime/utfcpp-prefix/src/utfcpp-stamp/utfcpp-download.rule
+/home/ilya/Programming/16Sprint/Superfinal/antlr/runtime/utfcpp-prefix/src/utfcpp-stamp/utfcpp-mkdir.rule
